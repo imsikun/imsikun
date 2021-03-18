@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Covid-19 indian website
-- 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with learning ReactJS
+- 🔭 I’m currently working on building my website
+- 🌱 I’m currently learning Gatsby
+- 🤔 I’m looking for help with building my Startup
 - 💬 Ask me about tech stuff
 - ⚡ Fun fact: I am a runner
 
